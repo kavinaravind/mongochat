@@ -1,8 +1,8 @@
 # mongochat
 
-https://socket.io/
-https://www.mongodb.com/
-http://getbootstrap.com/
+1. https://socket.io/
+2. https://www.mongodb.com/
+3. http://getbootstrap.com/
 
 ## Getting Started
 
@@ -17,4 +17,4 @@ Must have mongod running: https://docs.mongodb.com/manual/reference/program/mong
 3. npm start
 4. open up multiple index.html's and chat away! :)
 
-![alt text](https://raw.githubusercontent.com/kavinaravind/mongochat/master/mongochat.png)
+<kbd>![alt text](https://raw.githubusercontent.com/kavinaravind/mongochat/master/mongochat.png)</kbd>
