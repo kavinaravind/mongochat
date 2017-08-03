@@ -17,4 +17,6 @@ Must have mongod running: https://docs.mongodb.com/manual/reference/program/mong
 3. npm start
 4. open up multiple index.html's and chat away! :)
 
-<kbd>![alt text](https://raw.githubusercontent.com/kavinaravind/mongochat/master/mongochat.png)</kbd>
+<kbd>![alt text](https://raw.githubusercontent.com/kavinaravind/mongochat/master/img/mongochat.png)</kbd>
+
+<kbd>![alt text](https://raw.githubusercontent.com/kavinaravind/mongochat/master/img/mongochat2.png)</kbd>
